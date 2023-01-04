@@ -49,7 +49,7 @@ namespace ConsoleApp1
                     result = remainder.ToString() + result;
                 }
                 Console.WriteLine("Binary output:" + result);
-                float Output = StaticInput / 1 * -1.25f;
+                float Output = StaticInput / 1 * -0,078f;
                 Console.WriteLine("Voltage output:" + Output + "V");
             
             }
